@@ -1,0 +1,17 @@
+name: RealWorldTimeSync
+main: com.Rayne.RealWorldTimeSync
+version: 1.0
+api-version: 1.19
+description: Plugin made for MC Imagineers
+author: Rayne
+
+permissions:
+  RealWorldTimeSync.reload:
+    description: Allows the use of the /reload command.
+    usage: /reload
+    default: op
+commands:
+  reload:
+    description: Reloads the plugin configuration.
+    usage: /<command>
+    permission: RTTS.reload

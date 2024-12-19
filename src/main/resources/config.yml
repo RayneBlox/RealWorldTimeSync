@@ -1,0 +1,6 @@
+# Made by Rayne (R_ayne) on discord
+
+main:
+  location: ORLANDO # city here
+  api: d2951a4d11d1eb06bee13af8d4e1004f # api key here. default is mine
+  debug: false # sends the entire API response in console
